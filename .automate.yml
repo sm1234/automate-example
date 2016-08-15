@@ -1,4 +1,5 @@
 language: java
+script: test.java
 desired capabilities:
  - browser: IE
    browser_version: 7.0
